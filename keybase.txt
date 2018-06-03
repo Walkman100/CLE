@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/walkman100
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://carteronline.net
+  * I am walkman100 (https://keybase.io/walkman100) on keybase.
+  * I have a public key ASBCFb8GoQBKHOlrNFQcJ9IEempJqCRlQHQRlV6cbFHEywo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206474f6cbeafc485eb71eb14a3db0257f8c6d633865a2f33f2a36fd0f814171810a",
+      "host": "keybase.io",
+      "kid": "01204215bf06a1004a1ce96b34541c27d2047a6a49a82465407411955e9c6c51c4cb0a",
+      "uid": "da5a5aa1a41e8cb4e1df79c38a3f3c19",
+      "username": "walkman100"
+    },
+    "merkle_root": {
+      "ctime": 1528015857,
+      "hash": "dea922aee6d1aab82e793afdf32afe277dfdc1e0851a31084e4003f6d5eb73cde16ebc66d4a77df1b487f5f0fa325ef953b432bc086dc62cb04a3e261c73e2e5",
+      "hash_meta": "96ea0277172f53f035d2c9a55af51b94626adf5999051b89f1f64a800bff4e25",
+      "seqno": 2984154
+    },
+    "service": {
+      "entropy": "Owtsrw8218IRXGv1J6lBIokn",
+      "hostname": "carteronline.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.49"
+  },
+  "ctime": 1528015865,
+  "expire_in": 504576000,
+  "prev": "8a9f5640ecf3be717c21192d8d35b5ea40d1fb9128b79761bbc610fd13168250",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQhW/BqEAShzpazRUHCfSBHpqSagkZUB0EZVenGxRxMsKp3BheWxvYWTESpcCHMQgip9WQOzzvnF8IRktjTW16kDR+5Eot5dhu8YQ/RMWglDEIHnH5ZJy4rauJ+TzUPtIWP10VcS7bIyehFphzwDw2fAoAgHCo3NpZ8RAW7u9Mc6xXN8JVMg5X03+m2pNqAnQ95isMTrLo7Rould3btVp/Z944q56wYmTeF1JkG3OvqnJLGkIrA28e8uaDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFN3Q6ItDEriIPEFG9hrjal8nfnUFa+9Rkad97TSRt8Ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/walkman100
+
+==================================================================
